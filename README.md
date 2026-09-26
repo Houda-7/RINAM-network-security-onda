@@ -3,7 +3,7 @@
 Architecture réseau sécurisée conçue pour isoler et protéger les flux critiques aéroportuaires (Télémétrie Radar, VCS) contre les intrusions.
 
 ## Stack Technique
-* **Infrastructure :** Cisco ISR 4000, Catalyst 2960
+* **Infrastructure :** Cisco ISR 4331, Catalyst 2960
 * **Réseau :** 802.1Q (VLANs), Inter-VLAN Routing (Router-on-a-stick)
 * **Sécurité :** ACLs étendues (Stateless Firewalling), SSHv2 (RSA 1024-bit), IOS Hardening
 * **Outil de simulation :** Cisco Packet Tracer
