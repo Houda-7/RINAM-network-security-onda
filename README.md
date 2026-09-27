@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Architecture réseau sécurisée</b> conçue pour isoler et protéger les flux critiques aéroportuaires (Télémétrie Radar, VCS) contre les intrusions, dans le cadre d'un stage d'initiation au sein d'ONDA — Aéroport Chérif El Idrissi d'Al Hoceima.
+  <b>Architecture réseau sécurisée</b> conçue pour isoler et protéger les flux critiques aéroportuaires (Télémétrie Radar, VCS) contre les intrusions.
 </p>
 
 <p align="center">
